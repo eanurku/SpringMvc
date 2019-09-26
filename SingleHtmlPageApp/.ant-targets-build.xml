@@ -1,0 +1,12 @@
+clean
+compile-java
+compile-test
+init
+install
+list
+reload
+start
+stop
+uninstall
+unitTest
+war
