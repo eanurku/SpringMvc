@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleMvcApp/SimpleMvcApp.iml" filepath="$PROJECT_DIR$/SimpleMvcApp/SimpleMvcApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithAnnotations/SimpleMvcAppWithAnnotations.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithAnnotations/SimpleMvcAppWithAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithMultiActionController/SimpleMvcAppWithMultiActionController.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithMultiActionController/SimpleMvcAppWithMultiActionController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithPathVariable/SimpleMvcAppWithPathVariable.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithPathVariable/SimpleMvcAppWithPathVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleRestApp/SimpleRestApp.iml" filepath="$PROJECT_DIR$/SimpleRestApp/SimpleRestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" filepath="$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvc.iml" filepath="$PROJECT_DIR$/SpringMvc.iml" />
+    </modules>
+  </component>
+</project>
