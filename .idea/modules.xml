@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SimpleMvcApp/SimpleMvcApp.iml" filepath="$PROJECT_DIR$/SimpleMvcApp/SimpleMvcApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithAnnotations/SimpleMvcAppWithAnnotations.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithAnnotations/SimpleMvcAppWithAnnotations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithMultiActionController/SimpleMvcAppWithMultiActionController.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithMultiActionController/SimpleMvcAppWithMultiActionController.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleMvcAppWithPathVariable/SimpleMvcAppWithPathVariable.iml" filepath="$PROJECT_DIR$/SimpleMvcAppWithPathVariable/SimpleMvcAppWithPathVariable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleRestApp/SimpleRestApp.iml" filepath="$PROJECT_DIR$/SimpleRestApp/SimpleRestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp1/MvcApp1.iml" filepath="$PROJECT_DIR$/MvcApp1/MvcApp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp10HtmlFormWithValidations/MvcApp10HtmlFormWithValidations.iml" filepath="$PROJECT_DIR$/MvcApp10HtmlFormWithValidations/MvcApp10HtmlFormWithValidations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors/MvcApp11HtmlFormWithInterceptors.iml" filepath="$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors/MvcApp11HtmlFormWithInterceptors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/MvcApp12HtmlFormWithExceptionHandler.iml" filepath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/MvcApp12HtmlFormWithExceptionHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/MvcApp13HtmlFormWithXmlBasedExceptionHandler.iml" filepath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/MvcApp13HtmlFormWithXmlBasedExceptionHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp2WithPathVariable/MvcApp2WithPathVariable.iml" filepath="$PROJECT_DIR$/MvcApp2WithPathVariable/MvcApp2WithPathVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp3WithAnnotations/MvcApp3WithAnnotations.iml" filepath="$PROJECT_DIR$/MvcApp3WithAnnotations/MvcApp3WithAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp4WithMultiActionController/MvcApp4WithMultiActionController.iml" filepath="$PROJECT_DIR$/MvcApp4WithMultiActionController/MvcApp4WithMultiActionController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp5WithHtmlForm/MvcApp5WithHtmlForm.iml" filepath="$PROJECT_DIR$/MvcApp5WithHtmlForm/MvcApp5WithHtmlForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp6HtmlFormWithModelAttribute/MvcApp6HtmlFormWithModelAttribute.iml" filepath="$PROJECT_DIR$/MvcApp6HtmlFormWithModelAttribute/MvcApp6HtmlFormWithModelAttribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/MvcApp7HtmlFormWithDataBinding.iml" filepath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/MvcApp7HtmlFormWithDataBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults/MvcApp8HtmlFormWithBindingResults.iml" filepath="$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults/MvcApp8HtmlFormWithBindingResults.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor/MvcApp9HtmlFormWithInitBinderAndPropertyEditor.iml" filepath="$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor/MvcApp9HtmlFormWithInitBinderAndPropertyEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" filepath="$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" filepath="$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" filepath="$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp2/RestApp2.iml" filepath="$PROJECT_DIR$/RestApp2/RestApp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp3WithXmlResponseSupportByServer/RestApp3WithXmlResponseSupportByServer.iml" filepath="$PROJECT_DIR$/RestApp3WithXmlResponseSupportByServer/RestApp3WithXmlResponseSupportByServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp4WithPathVariable/RestApp4WithPathVariable.iml" filepath="$PROJECT_DIR$/RestApp4WithPathVariable/RestApp4WithPathVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp5WithResponseFormatRestrictedByServer/RestApp5WithResponseFormatRestrictedByServer.iml" filepath="$PROJECT_DIR$/RestApp5WithResponseFormatRestrictedByServer/RestApp5WithResponseFormatRestrictedByServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp6WithPutMethod/RestApp6WithPutMethod.iml" filepath="$PROJECT_DIR$/RestApp6WithPutMethod/RestApp6WithPutMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp7ReturnsAppropriateStatusCode/RestApp7ReturnsAppropriateStatusCode.iml" filepath="$PROJECT_DIR$/RestApp7ReturnsAppropriateStatusCode/RestApp7ReturnsAppropriateStatusCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" filepath="$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" filepath="$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" filepath="$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMvc.iml" filepath="$PROJECT_DIR$/SpringMvc.iml" />
     </modules>
