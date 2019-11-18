@@ -17,7 +17,7 @@ import java.util.Random;
 public class SimpleRestController {
 
 
-    @RequestMapping(value = "/test", method = RequestMethod.GET)
+    @RequestMapping(value = "/tests", produces = MediaType.APPLICATION_XML_VALUE,method = RequestMethod.GET)
     public List<Student> getStudents() {
 
         List<Student> list = new ArrayList<>();
@@ -26,6 +26,21 @@ public class SimpleRestController {
 
         return list;
     }
+
+    @RequestMapping(value = "/employeelist", method = RequestMethod.GET)
+    public List<Employee> getStudent() {
+
+        List<Employee> list = new ArrayList<>();
+        list.add(new Employee(23,"anurag"));
+        list.add(new Employee(25,"monu"));
+        return list;
+    }
+    @RequestMapping(value = "/employee", method = RequestMethod.GET)
+    public Employee getEmployee() {
+
+        return new Employee(23,"anurag");
+    }
+
 
     @RequestMapping(value = "/addStudent", method = RequestMethod.POST)
     public ResponseEntity<Boolean> updateMethod( @RequestBody Student student) {

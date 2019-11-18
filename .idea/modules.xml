@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/RestApp7ReturnsAppropriateStatusCode/RestApp7ReturnsAppropriateStatusCode.iml" filepath="$PROJECT_DIR$/RestApp7ReturnsAppropriateStatusCode/RestApp7ReturnsAppropriateStatusCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" filepath="$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" filepath="$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestClientApp1/RestClientApp1.iml" filepath="$PROJECT_DIR$/RestClientApp1/RestClientApp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" filepath="$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMvc.iml" filepath="$PROJECT_DIR$/SpringMvc.iml" />
     </modules>

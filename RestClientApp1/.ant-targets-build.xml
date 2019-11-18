@@ -1,0 +1,6 @@
+clean
+compile-java
+compile-test
+init
+runRestClientApp
+unitTest
