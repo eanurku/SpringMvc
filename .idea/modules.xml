@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/MvcApp7HtmlFormWithDataBinding.iml" filepath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/MvcApp7HtmlFormWithDataBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults/MvcApp8HtmlFormWithBindingResults.iml" filepath="$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults/MvcApp8HtmlFormWithBindingResults.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor/MvcApp9HtmlFormWithInitBinderAndPropertyEditor.iml" filepath="$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor/MvcApp9HtmlFormWithInitBinderAndPropertyEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp0/RestApp0.iml" filepath="$PROJECT_DIR$/RestApp0/RestApp0.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" filepath="$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" filepath="$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" filepath="$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" />

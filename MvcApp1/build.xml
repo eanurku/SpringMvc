@@ -72,7 +72,6 @@
         <war file="${dist.dir}/${app.name}.war" webxml="${webapp.dir}/web.xml">
 
             <lib dir="${lib.dir}" />
-
             <classes dir="${build.classes}"/>
             <webinf dir="${webapp.dir}"/>
         </war>
