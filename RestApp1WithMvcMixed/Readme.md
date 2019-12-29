@@ -2,6 +2,8 @@
    see readme.md in https://github.com/eanurku/AntBasics 
   
 2.add below jars in classpath:
+* add servlet jar:
+    javax.servlet-api-3.1.0.jar
 * add spring jars:
     spring-aop
     spring-beans
@@ -43,23 +45,20 @@
     stop tomcat service:
         go to apache-tomcat-9.0.16/bin/
         run ./shutdown.sh
-
-4.GET:
+        
+4.jsp page Request:
+    http://localhost:8080///RestApp1WithMvcMixed/welcome
+    
+5.GET:
   * method url
-    GET     http://localhost:8080//RestApp0/test
+    GET     http://localhost:8080///RestApp1WithMvcMixed/test
     Headers:
     Accept:application/xml
     Response:
-    <Student>
-        <sname>monu</sname>
-        <sid>23</sid>
-        <smobileno/>
-        <sdob/>
-        <saddress/>
-    </Student>
+    hello world
    
    * method url
-        GET     http://localhost:8080//RestApp0/students
+        GET     http://localhost:8080/RestApp1WithMvcMixed/students
         Headers:
         Accept:application/xml
         Response:

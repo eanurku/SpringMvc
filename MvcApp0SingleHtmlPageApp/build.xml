@@ -1,18 +1,17 @@
 <?xml version="1.0"?>
-<project name="MvcApp1" default="war" basedir=".">
+<project name="MvcApp0SingleHtmlPageApp" default="war" basedir=".">
 
-    <property name="app.name" value="MvcApp1"/>
+    <property name="app.name" value="MvcApp0SingleHtmlPageApp"/>
 
     <property name="dist.dir" value="dist"/>
     <property name="lib.dir" value="lib"/>
-    <property name="lib.dev.dir" value="lib-dev"/>
     <property name="src.dir" value="src/main/java"/>
     <property name="test.dir" value="src/test/java"/>
 
     <property name="build.classes" value="dist/classes"/>
     <property name="build.test.classes" value="dist/test"/>
     <property name="webapp.dir" value="src/main/webapp"/>
-    
+
     <property file="tomcat/tomcat.properties"/>
 
 
@@ -26,9 +25,6 @@
     <path id="build-test-classpath">
         <path refid="build-classpath"/>
         <pathelement location="${build.test.classes}"/>
-        <fileset dir="${lib.dev.dir}">
-            <include name="**/*.jar"/>
-        </fileset>
     </path>
 
 
@@ -69,11 +65,14 @@
     </target>
 
     <target name="war" depends="compile-test">
-        <war file="${dist.dir}/${app.name}.war" webxml="${webapp.dir}/web.xml">
+        <war file="${dist.dir}/${app.name}.war" needxmlfile="false">
 
-            <lib dir="${lib.dir}" />
-            <classes dir="${build.classes}"/>
-            <webinf dir="${webapp.dir}"/>
+            <!--<lib dir="${lib.dir}" />-->
+
+            <!--<classes dir="${build.classes}"/>-->
+
+            <fileset dir="${webapp.dir}">
+            </fileset>
         </war>
     </target>
 

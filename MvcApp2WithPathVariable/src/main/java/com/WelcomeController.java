@@ -12,6 +12,17 @@ import java.util.Map;
 @RequestMapping("/university")
 public class WelcomeController  {
 
+    @RequestMapping("/welcome1/{sname}/{rollno}")
+    public ModelAndView welcomeMethod1(@PathVariable ("sname") String name,@PathVariable ("rollno") String rollno){
+
+        ModelAndView modelandview = new ModelAndView("hellopage");
+
+        modelandview.addObject("msg","welcome ");
+        modelandview.addObject("name",name);
+        modelandview.addObject("roll",rollno);
+
+        return modelandview;
+    }
 
     @RequestMapping("/welcome/{sname}/{rollno}")
     public ModelAndView welcomeMethod(@PathVariable Map<String,String> pathVars){

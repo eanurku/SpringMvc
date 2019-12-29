@@ -45,9 +45,9 @@ public class StudentAdmissionController {
     @RequestMapping(value = "/admissionForm.html", method = RequestMethod.GET)
     public ModelAndView admissionMethod() {
 
-        if (true) {
-            throw new NullPointerException("null pointer exception occured while filling form");
-        }
+//        if (true) {
+//            throw new NullPointerException("null pointer exception occured while filling form");
+//        }
         ModelAndView modelview = new ModelAndView("admissionForm");
         return modelview;
     }
@@ -71,6 +71,7 @@ public class StudentAdmissionController {
     @RequestMapping(value = "/submitAdmissionForm.html", method = RequestMethod.POST)
     public ModelAndView submitMethod(@Valid @ModelAttribute("student") Student student, BindingResult results) {
 
+        System.out.println(student);
         if (results.hasErrors()) {
             return new ModelAndView("admissionForm");
         }

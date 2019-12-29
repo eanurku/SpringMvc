@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<project name="MvcAppWithAnnotations" default="war" basedir=".">
+<project name="MvcApp3WithAnnotations" default="war" basedir=".">
 
-    <property name="app.name" value="MvcAppWithAnnotations"/>
+    <property name="app.name" value="MvcApp3WithAnnotations"/>
 
     <property name="dist.dir" value="dist"/>
     <property name="lib.dir" value="lib"/>

@@ -4,6 +4,8 @@
     <property name="app.name" value="RestApp1WithMvcMixed"/>
 
     <property name="dist.dir" value="dist"/>
+    <property name="dist.dir.lib" value="dist/lib"/>
+
     <property name="lib.dir" value="lib"/>
     <property name="lib.dev.dir" value="lib-dev"/>
     <property name="src.dir" value="src/main/java"/>
@@ -17,7 +19,7 @@
 
 
     <path id="build-classpath">
-        <fileset dir="${lib.dir}">
+        <fileset dir="lib">
             <include name="**/*.jar"/>
         </fileset>
         <pathelement location="${build.classes}"/>
@@ -67,19 +69,23 @@
         </junit>
 
     </target>
+    <target name="copyRequiredJars">
+        <copy todir="${dist.dir.lib}" flatten="true">
+            <fileset dir="${lib.dir}">
+                <include name="**/*.jar"/>
+            </fileset>
+        </copy>
+    </target>
 
-    <target name="war" depends="compile-test">
+
+    <target name="war" depends="compile-test,copyRequiredJars">
         <war file="${dist.dir}/${app.name}.war" webxml="${webapp.dir}/web.xml">
 
-            <lib dir="${lib.dir}" />
-
+            <lib dir="${dist.dir.lib}" />
             <classes dir="${build.classes}"/>
             <webinf dir="${webapp.dir}"/>
         </war>
     </target>
-
-
-
 
     <!--tomcat tasks for deployment of war directly-->
 

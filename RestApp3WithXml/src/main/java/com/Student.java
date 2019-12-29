@@ -1,35 +1,45 @@
 package com;
 
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Past;
-import javax.validation.constraints.Size;
+
+import javax.xml.bind.annotation.*;
+import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-public class Student {
-
-    int sid;
-
-    @Size(min = 2, max = 32)
+@XmlRootElement(name = "student")
+@XmlAccessorType(XmlAccessType.FIELD)
+public class Student implements Serializable {
+    private static final long serialVersionUID = 1L;
+    @XmlElement(name = "name")
     String sname;
 
-    @Max(value = 200, message = "max value allowed is {value}")
-    long smobileno;
+    @XmlAttribute(name = "id")
+    int sid;
 
-    @Past
+    Long smobileno;
+
     Date sdob;
 
     List<String> sskills;
 
+    @XmlElement(name = "address")
     Address saddress;
 
-
-    public int getSid() {
-        return sid;
+    public Student() {
     }
 
-    public void setSid(int sid) {
+    public Student(String sname, int sid) {
+        this.sname = sname;
         this.sid = sid;
+    }
+
+    public Student(String sname, int sid, Long smobileno, Date sdob, List<String> sskills, Address saddress) {
+        this.sname = sname;
+        this.sid = sid;
+        this.smobileno = smobileno;
+        this.sdob = sdob;
+        this.sskills = sskills;
+        this.saddress = saddress;
     }
 
     public String getSname() {
@@ -40,11 +50,19 @@ public class Student {
         this.sname = sname;
     }
 
-    public long getSmobileno() {
+    public int getSid() {
+        return sid;
+    }
+
+    public void setSid(int sid) {
+        this.sid = sid;
+    }
+
+    public Long getSmobileno() {
         return smobileno;
     }
 
-    public void setSmobileno(long smobileno) {
+    public void setSmobileno(Long smobileno) {
         this.smobileno = smobileno;
     }
 
@@ -75,8 +93,8 @@ public class Student {
     @Override
     public String toString() {
         return "Student{" +
-                "sid=" + sid +
-                ", sname='" + sname + '\'' +
+                "sname='" + sname + '\'' +
+                ", sid=" + sid +
                 ", smobileno=" + smobileno +
                 ", sdob=" + sdob +
                 ", sskills=" + sskills +

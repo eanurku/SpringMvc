@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<project name="MvcApp1" default="war" basedir=".">
+<project name="RestApp2WithJson" default="war" basedir=".">
 
-    <property name="app.name" value="MvcApp1"/>
+    <property name="app.name" value="RestApp2WithJson"/>
 
     <property name="dist.dir" value="dist"/>
     <property name="lib.dir" value="lib"/>
@@ -11,8 +11,9 @@
 
     <property name="build.classes" value="dist/classes"/>
     <property name="build.test.classes" value="dist/test"/>
+
     <property name="webapp.dir" value="src/main/webapp"/>
-    
+    <property name="resources.dir" value="src/main/resources"/>
     <property file="tomcat/tomcat.properties"/>
 
 
@@ -68,15 +69,30 @@
 
     </target>
 
-    <target name="war" depends="compile-test">
+    <target name="war" depends="unitTest">
         <war file="${dist.dir}/${app.name}.war" webxml="${webapp.dir}/web.xml">
 
             <lib dir="${lib.dir}" />
+
             <classes dir="${build.classes}"/>
             <webinf dir="${webapp.dir}"/>
         </war>
     </target>
 
+
+    <!-- run mainclass with command: ant -f build.xml run -Dmainclass=com.crud.select.HibernateSelectAllDemo -->
+
+    <target name="run" depends="unitTest">
+        <java classname="${mainclass}"  >
+
+            <classpath >
+                <path refid="build-classpath"/>
+                <pathelement location="${webapp.dir}"/>
+                <pathelement location="${resources.dir}"/>
+            </classpath>
+
+        </java>
+    </target>
 
 
 
