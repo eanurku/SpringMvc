@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/MvcApp0SingleHtmlPageApp.iml" filepath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/MvcApp0SingleHtmlPageApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvcApp1/MvcApp1.iml" filepath="$PROJECT_DIR$/MvcApp1/MvcApp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvcApp10HtmlFormWithValidations/MvcApp10HtmlFormWithValidations.iml" filepath="$PROJECT_DIR$/MvcApp10HtmlFormWithValidations/MvcApp10HtmlFormWithValidations.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors/MvcApp11HtmlFormWithInterceptors.iml" filepath="$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors/MvcApp11HtmlFormWithInterceptors.iml" />
@@ -19,7 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" filepath="$PROJECT_DIR$/RestApp10WithPostMethod/RestApp10WithPostMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" filepath="$PROJECT_DIR$/RestApp11WithDeleteMethod/RestApp11WithDeleteMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" filepath="$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RestApp2/RestApp2.iml" filepath="$PROJECT_DIR$/RestApp2/RestApp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp2WithJson/RestApp2WithJson.iml" filepath="$PROJECT_DIR$/RestApp2WithJson/RestApp2WithJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestApp3WithXml/RestApp3WithXml.iml" filepath="$PROJECT_DIR$/RestApp3WithXml/RestApp3WithXml.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp3WithXmlResponseSupportByServer/RestApp3WithXmlResponseSupportByServer.iml" filepath="$PROJECT_DIR$/RestApp3WithXmlResponseSupportByServer/RestApp3WithXmlResponseSupportByServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp4WithPathVariable/RestApp4WithPathVariable.iml" filepath="$PROJECT_DIR$/RestApp4WithPathVariable/RestApp4WithPathVariable.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp5WithResponseFormatRestrictedByServer/RestApp5WithResponseFormatRestrictedByServer.iml" filepath="$PROJECT_DIR$/RestApp5WithResponseFormatRestrictedByServer/RestApp5WithResponseFormatRestrictedByServer.iml" />
@@ -28,7 +30,6 @@
       <module fileurl="file://$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" filepath="$PROJECT_DIR$/RestApp8WithRequestBodyFormatRestrictedByServer/RestApp8WithRequestBodyFormatRestrictedByServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" filepath="$PROJECT_DIR$/RestApp9WithCustomHeadersInResponseByServer/RestApp9WithCustomHeadersInResponseByServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestClientApp1/RestClientApp1.iml" filepath="$PROJECT_DIR$/RestClientApp1/RestClientApp1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" filepath="$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMvc.iml" filepath="$PROJECT_DIR$/SpringMvc.iml" />
     </modules>
   </component>

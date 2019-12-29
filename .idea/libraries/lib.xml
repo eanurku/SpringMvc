@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/SingleHtmlPageApp/lib" />
+      <root url="file://$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/SingleHtmlPageApp/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib" recursive="false" />
   </library>
 </component>

@@ -2,56 +2,345 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd11d59a-ffc0-48d4-9324-001550895bf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RestApp0/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/RestApp0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib-dev/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib-dev/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/json/jackson-annotations-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/json/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/json/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-aop-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-aop-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-beans-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-beans-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-context-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-context-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-core-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-core-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-expression-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-expression-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-jcl-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-jcl-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-web-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-web-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-webmvc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-webmvc-5.1.9.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/rest/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/xml/jackson-dataformat-xml-2.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/xml/jackson-module-jaxb-annotations-2.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/xml/stax2-api-3.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/lib/xml/woodstox-core-5.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/java/com/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/java/com/SimpleRestController1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/java/com/SimpleRestController2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/java/com/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/webapp/spring-dispatch-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/main/webapp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/src/test/java/com/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestApp0/tomcat/tomcat.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAppWithHttpMessageConverter/dist/RestApp11WithDeleteMethod.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp1/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp10HtmlFormWithValidations/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/MvcAppHtmlFormWithExceptionHandler.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/GeneralExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/StudentAdmissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/StudentNameEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/classes/com/interceptors/ClosingHoursInterceptors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/MvcAppHtmlFormWithXmlBasedExceptionHandler.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/com/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/com/StudentAdmissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/com/StudentNameEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/classes/com/interceptors/ClosingHoursInterceptors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/MvcAppWithPathVariable.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/classes/com/StudentMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/classes/com/WelcomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/MvcApp3WithAnnotations.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/classes/com/StudentMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/classes/com/WelcomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp4WithMultiActionController/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp5WithHtmlForm/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp6HtmlFormWithModelAttribute/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/MvcAppHtmlFormWithDataBinding.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/classes/com/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/classes/com/StudentAdmissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp7HtmlFormWithDataBinding/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/servlet/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/xml/jackson-dataformat-xml-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/xml/jackson-module-jaxb-annotations-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/xml/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/xml/woodstox-core-5.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/References.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/classes/com/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/classes/com/JsonToObjectMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/classes/com/ObjectToJsonMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/classes/com/SimpleRestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/classes/com/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/dist/test/com/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/jackson-dataformat-xml-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/jackson-module-jaxb-annotations-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-aop-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-aop-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-beans-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-beans-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-context-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-context-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-core-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-core-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-expression-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-expression-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-jcl-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-jcl-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-web-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-web-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-webmvc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-webmvc-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/lib/woodstox-core-5.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/java/com/JsonToObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/java/com/ObjectToJsonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/References.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/RestApp3WithXml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib-dev/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib-dev/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/json/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/json/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/json/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-aop-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-aop-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-beans-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-beans-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-context-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-context-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-core-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-core-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-expression-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-expression-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-jcl-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-jcl-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-web-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-web-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-webmvc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-webmvc-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/rest/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/xml/jackson-dataformat-xml-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/xml/jackson-module-jaxb-annotations-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/xml/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/lib/xml/woodstox-core-5.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/java/com/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/java/com/ObjectToXMLMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/java/com/SimpleRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/java/com/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/java/com/XMLToObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/webapp/spring-dispatch-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/main/webapp/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/src/test/java/com/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestApp3WithXml/tomcat/tomcat.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MvcApp1/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp1/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/MvcApp13HtmlFormWithXmlBasedExceptionHandler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/MvcApp13HtmlFormWithXmlBasedExceptionHandler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcApp1/src/main/webapp/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp1/src/main/webapp/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/src/main/java/com/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/src/main/java/com/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/src/main/java/com/StudentAdmissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp13HtmlFormWithXmlBasedExceptionHandler/src/main/java/com/StudentAdmissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcApp2WithPathVariable/src/main/java/com/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp2WithPathVariable/src/main/java/com/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcApp3WithAnnotations/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp3WithAnnotations/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp0/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp0/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp0/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp0/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/RestApp1WithMvcMixed.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/jackson-annotations-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aop-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aop-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aop-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aspects-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aspects-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-aspects-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-beans-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-beans-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-beans-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-indexer-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-indexer-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-indexer-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-support-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-support-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-context-support-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-core-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-core-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-core-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-expression-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-expression-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-expression-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-instrument-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-instrument-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-instrument-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jcl-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jcl-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jcl-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jdbc-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jdbc-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jdbc-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jms-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jms-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-jms-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-messaging-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-messaging-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-messaging-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-orm-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-orm-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-orm-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-oxm-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-oxm-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-oxm-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-test-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-test-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-test-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-tx-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-tx-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-tx-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-web-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-web-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-web-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webflux-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webflux-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webflux-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webmvc-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webmvc-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-webmvc-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-websocket-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-websocket-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/spring-websocket-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp1WithMvcMixed/src/main/java/com/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/src/main/java/com/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/RestApp2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/RestApp2WithJson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib-dev/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib-dev/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/lib/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/jackson-annotations-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/json/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/jackson-core-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/json/jackson-core-2.9.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/jackson-databind-2.9.8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/json/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/jackson-dataformat-xml-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/jackson-module-jaxb-annotations-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-aop-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-aop-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-aop-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-beans-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-beans-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-beans-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-context-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-context-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-context-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-core-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-core-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-core-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-expression-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-expression-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-expression-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-jcl-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-jcl-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-jcl-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-web-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-web-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-web-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-webmvc-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-webmvc-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/spring-webmvc-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/lib/woodstox-core-5.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/java/com/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/java/com/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/java/com/SimpleRestController1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/java/com/SimpleRestController2.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/java/com/SimpleRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/java/com/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/java/com/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/webapp/spring-dispatch-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/webapp/spring-dispatch-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/main/webapp/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/main/webapp/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/src/test/java/com/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/src/test/java/com/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestApp2/tomcat/tomcat.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/tomcat/tomcat.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAppWithHttpMessageConverter/dist/RestApp11WithDeleteMethod.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/.ant-targets-build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/.ant-targets-build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/SingleHtmlPageApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/MvcApp0SingleHtmlPageApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/lib-dev/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/lib-dev/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-aop-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-aop-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aop-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-aspects-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-beans-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-beans-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-beans-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-context-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-context-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-indexer-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-context-support-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-core-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-core-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-core-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-expression-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-expression-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-expression-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-instrument-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-jcl-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-jcl-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jcl-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jdbc-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-jms-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-messaging-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-orm-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-oxm-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-test-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-tx-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-web-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-web-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-web-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webflux-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-webmvc-5.1.9.RELEASE-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-webmvc-5.1.9.RELEASE-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-webmvc-5.1.9.RELEASE.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp1WithMvcMixed/lib/rest/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/lib/spring-websocket-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/src/main/java/com/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/src/main/java/com/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/src/main/java/com/StudentMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/src/test/java/com/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MvcApp0SingleHtmlPageApp/src/test/java/com/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleHtmlPageApp/tomcat/tomcat.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RestApp2WithJson/tomcat/tomcat.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +357,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="71" />
-    <option name="y" value="27" />
-    <option name="width" value="915" />
-    <option name="height" value="1053" />
-  </component>
   <component name="ProjectId" id="1VMtIf3VhgbUtlygkwh4rUkpT4Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -85,13 +368,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574065398263" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/SimpleRestApp/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RestApp0/lib/xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.3740113" />
+    <property name="project.structure.proportion" value="0.097751714" />
+    <property name="project.structure.side.proportion" value="0.22210184" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
@@ -99,11 +383,11 @@
       <recent name="com" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RestAppWithHttpMessageConverter/lib/xml" />
-      <recent name="$PROJECT_DIR$/RestAppWithHttpMessageConverter/lib" />
-      <recent name="$PROJECT_DIR$/RestAppWithHttpMessageConverter" />
-      <recent name="$PROJECT_DIR$/RestClientApp1/src/main/java/com" />
-      <recent name="$PROJECT_DIR$/RestClientApp1/lib" />
+      <recent name="$PROJECT_DIR$/MvcApp12HtmlFormWithExceptionHandler" />
+      <recent name="$PROJECT_DIR$/MvcApp11HtmlFormWithInterceptors" />
+      <recent name="$PROJECT_DIR$/MvcApp10HtmlFormWithValidations" />
+      <recent name="$PROJECT_DIR$/MvcApp9HtmlFormWithInitBinderAndPropertyEditor" />
+      <recent name="$PROJECT_DIR$/MvcApp8HtmlFormWithBindingResults" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com" />
@@ -115,10 +399,36 @@
       <recent name="$PROJECT_DIR$/SimpleRest1/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RestClientApp">
-    <configuration name="RestClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.RestClientApp" />
-      <module name="RestApp11WithDeleteMethod" />
+  <component name="RunManager" selected="Application.JsonToObjectMain">
+    <configuration name="JsonToObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JsonToObjectMain" />
+      <module name="RestApp2WithJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToJsonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectToJsonMain" />
+      <module name="RestApp2WithJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToXMLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectToXMLMain" />
+      <module name="RestApp3WithXml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -142,12 +452,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.com.StudentMain" />
-      <module name="SingleHtmlPageApp" />
+    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.StudentMain" />
+      <module name="RestApp1WithMvcMixed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,17 +465,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SingleHtmlPageApp" />
+    <configuration name="XMLToObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.XMLToObjectMain" />
+      <module name="RestApp3WithXml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.com.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.StudentTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,6 +488,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com" />
       <option name="MAIN_CLASS_NAME" value="com.StudentTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,34 +507,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest.testgetname" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MvcApp11HtmlFormWithInterceptors" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com" />
-      <option name="MAIN_CLASS_NAME" value="com.StudentTest" />
-      <option name="METHOD_NAME" value="testgetname" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.JsonToObjectMain" />
+      <item itemvalue="Application.ObjectToJsonMain" />
+      <item itemvalue="Application.ObjectToXMLMain" />
       <item itemvalue="Application.RestClientApp" />
-      <item itemvalue="Application.StudentMain (1)" />
+      <item itemvalue="Application.StudentMain" />
+      <item itemvalue="Application.XMLToObjectMain" />
       <item itemvalue="JUnit.StudentTest" />
-      <item itemvalue="JUnit.StudentTest.testgetname" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RestClientApp" />
-        <item itemvalue="Application.RestClientApp" />
-        <item itemvalue="JUnit.StudentTest.testgetname" />
-        <item itemvalue="Application.StudentMain (1)" />
+        <item itemvalue="Application.JsonToObjectMain" />
+        <item itemvalue="Application.ObjectToJsonMain" />
+        <item itemvalue="Application.XMLToObjectMain" />
+        <item itemvalue="Application.ObjectToXMLMain" />
+        <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>
   </component>
@@ -309,26 +606,108 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="801" y="271" width="558" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1577295261238">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="271" width="558" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1577295261238" />
+    <state x="490" y="412" width="1007" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577292103857">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="490" y="412" width="1007" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1577292103857" />
+    <state x="721" y="310" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1577268437590">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="721" y="310" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577268437590" />
+    <state x="751" y="256" key="#xdebugger.evaluate" timestamp="1577295587742">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="751" y="256" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1577295587742" />
+    <state width="483" height="466" key="DebuggerActiveHint" timestamp="1577295608573">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="483" height="466" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1577295608573" />
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1577262662835">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577262662835" />
-    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577249399423">
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577297125682">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577249399423" />
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1577249402514">
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577297125682" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1577298956969">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577249402514" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577298956968" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1577298956968">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577298956968" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1577298956968">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577298956968" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1577298956968">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577298956968" />
+    <state width="1807" height="334" key="GridCell.Tab.1.bottom" timestamp="1577296109228">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577296109228" />
+    <state width="1807" height="334" key="GridCell.Tab.1.center" timestamp="1577296109227">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577296109227" />
+    <state width="1807" height="334" key="GridCell.Tab.1.left" timestamp="1577296109227">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577296109227" />
+    <state width="1807" height="334" key="GridCell.Tab.1.right" timestamp="1577296109228">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577296109228" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1577297128332">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577297128332" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577504194767">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577504194767" />
     <state x="540" y="284" width="1380" height="536" key="find.popup" timestamp="1577249210807">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="540" y="284" width="1380" height="536" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577249210807" />
-    <state x="302" y="153" width="1372" height="798" key="new project wizard" timestamp="1577246594541">
+    <state x="302" y="153" width="1372" height="798" key="new project wizard" timestamp="1577270485212">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="302" y="153" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1577246594541" />
+    <state x="302" y="153" width="1372" height="798" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1577270485212" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/xml/bind/ContextFinder.class</url>
+          <line>240</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/xml/bind/ContextFinder.class</url>
+          <line>347</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/xml/bind/ContextFinder.class</url>
+          <line>342</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/xml/bind/ContextFinder.class</url>
+          <line>243</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
